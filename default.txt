@@ -1,0 +1,23 @@
+VERSION = 1,
+
+mods
+{
+	mod = TKS,
+	mod = Literacy,
+	mod = ProfessionFramework,
+	mod = ItemTweakerAPI,
+	mod = Arsenal(26)GunFighter,
+	mod = modoptions,
+	mod = Brita_2,
+	mod = Brita,
+	mod = ModTemplate,
+	mod = PYZomboid_nude,
+	mod = ReviveMP,
+	mod = TMC_TrueActions,
+	mod = tsarslib,
+	mod = TheStar,
+}
+
+maps
+{
+}
