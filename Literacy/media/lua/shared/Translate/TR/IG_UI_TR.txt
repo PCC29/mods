@@ -1,0 +1,5 @@
+IGUI_TR = {
+    IGUI_perks_Mind = "Zihin",
+    IGUI_perks_Reading = "Okuryazarlýk",
+    IGUI_XP_readingspeed = "Okuma Hýza: %1",
+}

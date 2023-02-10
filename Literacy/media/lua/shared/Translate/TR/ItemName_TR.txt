@@ -1,0 +1,93 @@
+ItemName_TR = {
+    ItemName_Literacy.LiteracyMag = "Okumayý öðren!",
+
+    ItemName_Literacy.BookAiming1 = "Niþan Alma Vol. 1",
+    ItemName_Literacy.BookAiming2 = "Niþan Alma Vol. 2",
+    ItemName_Literacy.BookAiming3 = "Niþan Alma Vol. 3",
+    ItemName_Literacy.BookAiming4 = "Niþan Alma Vol. 4",
+    ItemName_Literacy.BookAiming5 = "Niþan Alma Vol. 5",
+
+    ItemName_Literacy.BookReloading1 = "Þarjör Doldurma Vol. 1",
+    ItemName_Literacy.BookReloading2 = "Þarjör Doldurma Vol. 2",
+    ItemName_Literacy.BookReloading3 = "Þarjör Doldurma Vol. 3",
+    ItemName_Literacy.BookReloading4 = "Þarjör Doldurma Vol. 4",
+    ItemName_Literacy.BookReloading5 = "Þarjör Doldurma Vol. 5",
+
+    ItemName_Literacy.BookStrength1 = "Güç Vol. 1",
+    ItemName_Literacy.BookStrength2 = "Güç Vol. 2",
+    ItemName_Literacy.BookStrength3 = "Güç Vol. 3",
+    ItemName_Literacy.BookStrength4 = "Güç Vol. 4",
+    ItemName_Literacy.BookStrength5 = "Güç Vol. 5",
+
+    ItemName_Literacy.BookFitness1 = "Fitness Vol. 1",
+    ItemName_Literacy.BookFitness2 = "Fitness Vol. 2",
+    ItemName_Literacy.BookFitness3 = "Fitness Vol. 3",
+    ItemName_Literacy.BookFitness4 = "Fitness Vol. 4",
+    ItemName_Literacy.BookFitness5 = "Fitness Vol. 5",
+
+    ItemName_Literacy.BookLightfoot1 = "Zariflik Vol. 1",
+    ItemName_Literacy.BookLightfoot2 = "Zariflik Vol. 2",
+    ItemName_Literacy.BookLightfoot3 = "Zariflik Vol. 3",
+    ItemName_Literacy.BookLightfoot4 = "Zariflik Vol. 4",
+    ItemName_Literacy.BookLightfoot5 = "Zariflik Vol. 5",
+    
+    ItemName_Literacy.BookSprinting1 = "Koþuculuk Vol. 1",
+    ItemName_Literacy.BookSprinting2 = "Koþuculuk Vol. 2",
+    ItemName_Literacy.BookSprinting3 = "Koþuculuk Vol. 3",
+    ItemName_Literacy.BookSprinting4 = "Koþuculuk Vol. 4",
+    ItemName_Literacy.BookSprinting5 = "Koþuculuk Vol. 5",
+        
+    ItemName_Literacy.BookSneak1 = "Gizlilik Vol. 1",
+    ItemName_Literacy.BookSneak2 = "Gizlilik Vol. 2",
+    ItemName_Literacy.BookSneak3 = "Gizlilik Vol. 3",
+    ItemName_Literacy.BookSneak4 = "Gizlilik Vol. 4",
+    ItemName_Literacy.BookSneak5 = "Gizlilik Vol. 5",
+        
+    ItemName_Literacy.BookNimble1 = "Atiklik Vol. 1",
+    ItemName_Literacy.BookNimble2 = "Atiklik Vol. 2",
+    ItemName_Literacy.BookNimble3 = "Atiklik Vol. 3",
+    ItemName_Literacy.BookNimble4 = "Atiklik Vol. 4",
+    ItemName_Literacy.BookNimble5 = "Atiklik Vol. 5",
+        
+    ItemName_Literacy.BookMaintenance1 = "Onarma Vol. 1",
+    ItemName_Literacy.BookMaintenance2 = "Onarma Vol. 2",
+    ItemName_Literacy.BookMaintenance3 = "Onarma Vol. 3",
+    ItemName_Literacy.BookMaintenance4 = "Onarma Vol. 4",
+    ItemName_Literacy.BookMaintenance5 = "Onarma Vol. 5",
+        
+    ItemName_Literacy.BookAxe1 = "Balta Vol. 1",
+    ItemName_Literacy.BookAxe2 = "Balta Vol. 2",
+    ItemName_Literacy.BookAxe3 = "Balta Vol. 3",
+    ItemName_Literacy.BookAxe4 = "Balta Vol. 4",
+    ItemName_Literacy.BookAxe5 = "Balta Vol. 5",
+        
+    ItemName_Literacy.BookSmallBlunt1 = "Kýsa Ezici Vol. 1",
+    ItemName_Literacy.BookSmallBlunt2 = "Kýsa Ezici Vol. 2",
+    ItemName_Literacy.BookSmallBlunt3 = "Kýsa Ezici Vol. 3",
+    ItemName_Literacy.BookSmallBlunt4 = "Kýsa Ezici Vol. 4",
+    ItemName_Literacy.BookSmallBlunt5 = "Kýsa Ezici Vol. 5",
+        
+    ItemName_Literacy.BookBlunt1 = "Yakýn Dövüþ Silahlarý Vol. 1",
+    ItemName_Literacy.BookBlunt2 = "Yakýn Dövüþ Silahlarý Vol. 2",
+    ItemName_Literacy.BookBlunt3 = "Yakýn Dövüþ Silahlarý Vol. 3",
+    ItemName_Literacy.BookBlunt4 = "Yakýn Dövüþ Silahlarý Vol. 4",
+    ItemName_Literacy.BookBlunt5 = "Yakýn Dövüþ Silahlarý Vol. 5",
+        
+    ItemName_Literacy.BookSmallBlade1 = "Kýsa Kesici Vol. 1",
+    ItemName_Literacy.BookSmallBlade2 = "Kýsa Kesici Vol. 2",
+    ItemName_Literacy.BookSmallBlade3 = "Kýsa Kesici Vol. 3",
+    ItemName_Literacy.BookSmallBlade4 = "Kýsa Kesici Vol. 4",
+    ItemName_Literacy.BookSmallBlade5 = "Kýsa Kesici Vol. 5",
+        
+    ItemName_Literacy.BookLongBlade1 = "Uzun Kesici Vol. 1",
+    ItemName_Literacy.BookLongBlade2 = "Uzun Kesici Vol. 2",
+    ItemName_Literacy.BookLongBlade3 = "Uzun Kesici Vol. 3",
+    ItemName_Literacy.BookLongBlade4 = "Uzun Kesici Vol. 4",
+    ItemName_Literacy.BookLongBlade5 = "Uzun Kesici Vol. 5",
+        
+    ItemName_Literacy.BookSpear1 = "Mýzrak Vol. 1",
+    ItemName_Literacy.BookSpear2 = "Mýzrak Vol. 2",
+    ItemName_Literacy.BookSpear3 = "Mýzrak Vol. 3",
+    ItemName_Literacy.BookSpear4 = "Mýzrak Vol. 4",
+    ItemName_Literacy.BookSpear5 = "Mýzrak Vol. 5",
+}

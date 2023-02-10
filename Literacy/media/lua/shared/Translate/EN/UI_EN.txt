@@ -1,0 +1,6 @@
+UI_EN = {
+    UI_trait_PoorReader = "Poor Reader",
+    UI_trait_PoorReaderDesc = "Decreased XP multipliers from books.",
+    UI_trait_VerySlowReader = "Very Slow Reader",
+    UI_trait_VerySlowReaderDesc = "Takes much longer to read books.",
+}

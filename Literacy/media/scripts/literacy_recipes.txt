@@ -1,0 +1,12 @@
+module Literacy {
+    recipe Make Reading Guide
+    {
+       SheetPaper2=5,
+       keep Pen/BluePen/RedPen/Pencil,
+
+       Result:LiteracyMag,
+       OnTest:Recipe.OnTest.CreateLiteracyMag,
+       SkillRequired:Reading=8,
+       Time:50.0,
+    }
+}

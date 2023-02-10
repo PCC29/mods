@@ -1,0 +1,50 @@
+Sandbox_EN = {
+    Sandbox_Literacy = "Literacy Mod",
+
+    Sandbox_Literacy_SpeedMultiplier = "Reading Speed Per Level",
+    Sandbox_Literacy_SpeedMultiplier_tooltip = "How much reading speed is affected by Literacy skill. (Speeds lower than level 5 are always calculated at 20% per level.)",
+    Sandbox_Literacy_SpeedMultiplierLevels_option1 = "10%",
+    Sandbox_Literacy_SpeedMultiplierLevels_option2 = "Default (20%)",
+    Sandbox_Literacy_SpeedMultiplierLevels_option3 = "40%",
+
+    Sandbox_Literacy_XPMultiplier = "Literacy XP Multiplier",
+    Sandbox_Literacy_XPMultiplier_tooltip = "Modifies the rate at which Literacy XP is gained.",
+    Sandbox_Literacy_XPMultiplierLevels_option1 = "0.5x",
+    Sandbox_Literacy_XPMultiplierLevels_option2 = "Default",
+    Sandbox_Literacy_XPMultiplierLevels_option3 = "2x",
+
+    Sandbox_Literacy_TraitMultiplier = "Trait Bonus Speed",
+    Sandbox_Literacy_TraitMultiplier_tooltip = "How much of an affect Fast Reader and Slow Reader have on reading speed, not including the starting skill boost.",
+    Sandbox_Literacy_TraitMultiplierLevels_option1 = "No bonus",
+    Sandbox_Literacy_TraitMultiplierLevels_option2 = "Default (10%)",
+    Sandbox_Literacy_TraitMultiplierLevels_option3 = "20%",
+
+    Sandbox_Literacy_OverallSpeedMultiplier = "Overall Reading Speed Multiplier",
+    Sandbox_Literacy_OverallSpeedMultiplier_tooltip = "Multiplies your overall reading speed",
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option1 = "Default",
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option2 = "1.5x",
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option3 = "2x",
+
+    Sandbox_Literacy_IlliteratePenalty = "Illiterate: Permanent Penalty",
+    Sandbox_Literacy_IlliteratePenalty_tooltip = "Remaining debuffs after losing the Illiterate trait",
+    Sandbox_Literacy_IlliteratePenalties_option1 = "None",
+    Sandbox_Literacy_IlliteratePenalties_option2 = "Slow Reader and Poor Reader",
+    Sandbox_Literacy_IlliteratePenalties_option3 = "Very Slow Reader",
+
+    Sandbox_Literacy_WantGunBooks = "Gun Skill Books",
+    Sandbox_Literacy_WantGunBooks_tooltip = "Adds skill books for aiming and reloading.",
+    Sandbox_Literacy_WantPassiveBooks = "Strength and Fitness Skill Books",
+    Sandbox_Literacy_WantPassiveBooks_tooltip = "Adds skill books for strength and fitness.",
+    Sandbox_Literacy_WantAgilityBooks = "Agility Skill Books",
+    Sandbox_Literacy_WantAgilityBooks_tooltip = "Adds skill books for sprinting, nimble, sneaking and lightfoot.",
+    Sandbox_Literacy_WantWeaponBooks = "Weapon Skill Books",
+    Sandbox_Literacy_WantWeaponBooks_tooltip = "Adds skill books for melee weapons.",
+    Sandbox_Literacy_WantMaintenanceBooks = "Maintenance Skill Books",
+    Sandbox_Literacy_WantMaintenanceBooks_tooltip = "Adds skill books for maintenance.",
+    Sandbox_Literacy_WantLiteracyMag = "Literacy Magazine",
+    Sandbox_Literacy_WantLiteracyMag_tooltip = "Turn off to stop the 'Learn to Read!' magazine from spawning.",
+    Sandbox_Literacy_LiteracyMagCraftable = "Literacy Magazine Craftable",
+
+    Sandbox_Literacy_SafeMode = "Safe Mode",
+    Sandbox_Literacy_SafeMode_tooltip = "Disables the custom book spawning code used by this mod. This is usually needed when using mods that add lots of books or items that spawn where books do, such as True Music.",
+}

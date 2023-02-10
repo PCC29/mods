@@ -1,0 +1,5 @@
+IGUI_TH = {
+	IGUI_perks_Mind = "สติปัญญา",
+	IGUI_perks_Reading = "การรู้หนังสือ",
+	IGUI_XP_readingspeed = "ความเร็วในการอ่าน: %1",
+}

@@ -1,0 +1,8 @@
+Sandbox_EN = {
+	Sandbox_ReviveMP 		 = "ReviveMP";
+	Sandbox_CharacterWeight  = "Recover Character Weight";
+	Sandbox_CharacterXP      = "Recover Skill XPs";
+	Sandbox_CharacterBoosts  = "Recover Skill Boosts";
+	Sandbox_CharacterRecipes = "Recover Known Recipes";
+	Sandbox_CharacterTraits  = "Recover Traits";
+}

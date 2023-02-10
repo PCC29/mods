@@ -1,0 +1,10 @@
+name=PYZomboid_nude
+id=PYZomboid_nude
+description=ファイル、PYZomboid_nudeはバニラに限りなく近い状態で47種類のtexturesにあるBodyの皮膚を変更します。
+このMODによって皮膚に付着した下着が消滅するので、もう二重で下着を履く必要はありません。
+
+■変更ポイント
+・全てのゾンビのテクスチャーを変更
+・感染していない男性キャラクターのテクスチャー変更
+・感染していない女性キャラクターのテクスチャー変更.
+poster=poster.png

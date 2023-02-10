@@ -1,0 +1,9 @@
+name=Albion's Literacy Mod
+id=Literacy
+poster=literacy.png
+description=Adds a literacy skill that governs your reading speed and can be leveled up by reading.
+require=ProfessionFramework,ItemTweakerAPI
+versionMin=41.00
+authors=albion
+modversion=1.2.2
+icon=literacymini.png

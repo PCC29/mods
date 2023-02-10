@@ -1,0 +1,115 @@
+VERSION = 1,
+
+option Literacy.SpeedMultiplier
+{
+    type = enum,
+    numValues = 3,
+    default = 2,
+    page = Literacy,
+    translation = Literacy_SpeedMultiplier,
+    valueTranslation = Literacy_SpeedMultiplierLevels,
+}
+
+option Literacy.XPMultiplier
+{
+    type = double,
+    min = 0.1,
+    default = 1.0,
+    max = 10.0,
+    page = Literacy,
+    translation = Literacy_XPMultiplier,
+}
+
+option Literacy.TraitMultiplier
+{
+    type = enum,
+    numValues = 3,
+    default = 2,
+    page = Literacy,
+    translation = Literacy_TraitMultiplier,
+    valueTranslation = Literacy_TraitMultiplierLevels,
+}
+
+option Literacy.OverallSpeedMultiplier
+{
+    type = double,
+    min = 0.1,
+    default = 1.0,
+    max = 10.0,
+    page = Literacy,
+    translation = Literacy_OverallSpeedMultiplier,
+}
+
+option Literacy.IlliteratePenalty
+{
+    type = enum,
+    numValues = 3,
+    default = 2,
+    page = Literacy,
+    translation = Literacy_IlliteratePenalty,
+    valueTranslation = Literacy_IlliteratePenalties,
+}
+
+option Literacy.WantPassiveBooks
+{
+    type = boolean,
+    default = false,
+    page = Literacy,
+    translation = Literacy_WantPassiveBooks,
+}
+
+option Literacy.WantAgilityBooks
+{
+    type = boolean,
+    default = true,
+    page = Literacy,
+    translation = Literacy_WantAgilityBooks,
+}
+
+option Literacy.WantWeaponBooks
+{
+    type = boolean,
+    default = false,
+    page = Literacy,
+    translation = Literacy_WantWeaponBooks,
+}
+
+option Literacy.WantMaintenanceBooks
+{
+    type = boolean,
+    default = true,
+    page = Literacy,
+    translation = Literacy_WantMaintenanceBooks,
+}
+
+option Literacy.WantGunBooks
+{
+    type = boolean,
+    default = false,
+    page = Literacy,
+    translation = Literacy_WantGunBooks,
+}
+
+option Literacy.WantLiteracyMag
+{
+    type = boolean,
+    default = true,
+    page = Literacy,
+    translation = Literacy_WantLiteracyMag,
+}
+
+option Literacy.LiteracyMagCraftable
+{
+    type = boolean,
+    default = true,
+    page = Literacy,
+    translation = Literacy_LiteracyMagCraftable,
+}
+
+option Literacy.SafeMode
+{
+    type = boolean,
+    default = true,
+    page = Literacy,
+    translation = Literacy_SafeMode,
+}

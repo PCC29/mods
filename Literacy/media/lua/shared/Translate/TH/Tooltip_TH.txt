@@ -1,0 +1,17 @@
+Tooltip_TH = {
+	Tooltip_BookTitle_Aiming = "การเล็ง",
+	Tooltip_BookTitle_Reloading = "การบรรจุกระสุน",
+	Tooltip_BookTitle_Strength = "พละกำลัง",
+	Tooltip_BookTitle_Fitness = "ความฟิต",
+	Tooltip_BookTitle_Nimble = "ความปราดเปรียว",
+	Tooltip_BookTitle_Sprinting = "การวิ่ง",
+	Tooltip_BookTitle_Sneak = "การลอบเร้น",
+	Tooltip_BookTitle_Lightfoot = "การเดินเสียงเบา",
+	Tooltip_BookTitle_Maintenance = "การดูแลรักษาอาวุธ",
+	Tooltip_BookTitle_Axe = "ขวาน",
+	Tooltip_BookTitle_SmallBlunt = "อาวุธทื่อสั้น",
+	Tooltip_BookTitle_Blunt = "อาวุธทื่อยาว",
+	Tooltip_BookTitle_SmallBlade = "อาวุธมีคมสั้น",
+	Tooltip_BookTitle_LongBlade = "อาวุธมีคมยาว",
+	Tooltip_BookTitle_Spear = "หอก",
+}

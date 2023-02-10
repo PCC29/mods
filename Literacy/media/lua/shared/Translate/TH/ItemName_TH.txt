@@ -1,0 +1,93 @@
+ItemName_TH = {
+    ItemName_Literacy.LiteracyMag = "แบบหัดอ่าน!",
+
+    ItemName_Literacy.BookAiming1 = "การเล็ง เล่มที่ 1",
+    ItemName_Literacy.BookAiming2 = "การเล็ง เล่มที่ 2",
+    ItemName_Literacy.BookAiming3 = "การเล็ง เล่มที่ 3",
+    ItemName_Literacy.BookAiming4 = "การเล็ง เล่มที่ 4",
+    ItemName_Literacy.BookAiming5 = "การเล็ง เล่มที่ 5",
+
+    ItemName_Literacy.BookReloading1 = "การบรรจุกระสุน เล่มที่ 1",
+    ItemName_Literacy.BookReloading2 = "การบรรจุกระสุน เล่มที่ 2",
+    ItemName_Literacy.BookReloading3 = "การบรรจุกระสุน เล่มที่ 3",
+    ItemName_Literacy.BookReloading4 = "การบรรจุกระสุน เล่มที่ 4",
+    ItemName_Literacy.BookReloading5 = "การบรรจุกระสุน เล่มที่ 5",
+
+    ItemName_Literacy.BookStrength1 = "พละกำลัง เล่มที่ 1",
+    ItemName_Literacy.BookStrength2 = "พละกำลัง เล่มที่ 2",
+    ItemName_Literacy.BookStrength3 = "พละกำลัง เล่มที่ 3",
+    ItemName_Literacy.BookStrength4 = "พละกำลัง เล่มที่ 4",
+    ItemName_Literacy.BookStrength5 = "พละกำลัง เล่มที่ 5",
+
+    ItemName_Literacy.BookFitness1 = "ความฟิต เล่มที่ 1",
+    ItemName_Literacy.BookFitness2 = "ความฟิต เล่มที่ 2",
+    ItemName_Literacy.BookFitness3 = "ความฟิต เล่มที่ 3",
+    ItemName_Literacy.BookFitness4 = "ความฟิต เล่มที่ 4",
+    ItemName_Literacy.BookFitness5 = "ความฟิต เล่มที่ 5",
+
+    ItemName_Literacy.BookLightfoot1 = "การเดินเสียงเบา เล่มที่ 1",
+    ItemName_Literacy.BookLightfoot2 = "การเดินเสียงเบา เล่มที่ 2",
+    ItemName_Literacy.BookLightfoot3 = "การเดินเสียงเบา เล่มที่ 3",
+    ItemName_Literacy.BookLightfoot4 = "การเดินเสียงเบา เล่มที่ 4",
+    ItemName_Literacy.BookLightfoot5 = "การเดินเสียงเบา เล่มที่ 5",
+    
+    ItemName_Literacy.BookSprinting1 = "การวิ่ง เล่มที่ 1",
+    ItemName_Literacy.BookSprinting2 = "การวิ่ง เล่มที่ 2",
+    ItemName_Literacy.BookSprinting3 = "การวิ่ง เล่มที่ 3",
+    ItemName_Literacy.BookSprinting4 = "การวิ่ง เล่มที่ 4",
+    ItemName_Literacy.BookSprinting5 = "การวิ่ง เล่มที่ 5",
+        
+    ItemName_Literacy.BookSneak1 = "การลอบเร้น เล่มที่ 1",
+    ItemName_Literacy.BookSneak2 = "การลอบเร้น เล่มที่ 2",
+    ItemName_Literacy.BookSneak3 = "การลอบเร้น เล่มที่ 3",
+    ItemName_Literacy.BookSneak4 = "การลอบเร้น เล่มที่ 4",
+    ItemName_Literacy.BookSneak5 = "การลอบเร้น เล่มที่ 5",
+        
+    ItemName_Literacy.BookNimble1 = "ความปราดเปรียว เล่มที่ 1",
+    ItemName_Literacy.BookNimble2 = "ความปราดเปรียว เล่มที่ 2",
+    ItemName_Literacy.BookNimble3 = "ความปราดเปรียว เล่มที่ 3",
+    ItemName_Literacy.BookNimble4 = "ความปราดเปรียว เล่มที่ 4",
+    ItemName_Literacy.BookNimble5 = "ความปราดเปรียว เล่มที่ 5",
+        
+    ItemName_Literacy.BookMaintenance1 = "การดูแลรักษาอาวุธ เล่มที่ 1",
+    ItemName_Literacy.BookMaintenance2 = "การดูแลรักษาอาวุธ เล่มที่ 2",
+    ItemName_Literacy.BookMaintenance3 = "การดูแลรักษาอาวุธ เล่มที่ 3",
+    ItemName_Literacy.BookMaintenance4 = "การดูแลรักษาอาวุธ เล่มที่ 4",
+    ItemName_Literacy.BookMaintenance5 = "การดูแลรักษาอาวุธ เล่มที่ 5",
+        
+    ItemName_Literacy.BookAxe1 = "ขวาน เล่มที่ 1",
+    ItemName_Literacy.BookAxe2 = "ขวาน เล่มที่ 2",
+    ItemName_Literacy.BookAxe3 = "ขวาน เล่มที่ 3",
+    ItemName_Literacy.BookAxe4 = "ขวาน เล่มที่ 4",
+    ItemName_Literacy.BookAxe5 = "ขวาน เล่มที่ 5",
+        
+    ItemName_Literacy.BookSmallBlunt1 = "อาวุธทื่อสั้น เล่มที่ 1",
+    ItemName_Literacy.BookSmallBlunt2 = "อาวุธทื่อสั้น เล่มที่ 2",
+    ItemName_Literacy.BookSmallBlunt3 = "อาวุธทื่อสั้น เล่มที่ 3",
+    ItemName_Literacy.BookSmallBlunt4 = "อาวุธทื่อสั้น เล่มที่ 4",
+    ItemName_Literacy.BookSmallBlunt5 = "อาวุธทื่อสั้น เล่มที่ 5",
+        
+    ItemName_Literacy.BookBlunt1 = "อาวุธทื่อยาว เล่มที่ 1",
+    ItemName_Literacy.BookBlunt2 = "อาวุธทื่อยาว เล่มที่ 2",
+    ItemName_Literacy.BookBlunt3 = "อาวุธทื่อยาว เล่มที่ 3",
+    ItemName_Literacy.BookBlunt4 = "อาวุธทื่อยาว เล่มที่ 4",
+    ItemName_Literacy.BookBlunt5 = "อาวุธทื่อยาว เล่มที่ 5",
+        
+    ItemName_Literacy.BookSmallBlade1 = "อาวุธมีคมสั้น เล่มที่ 1",
+    ItemName_Literacy.BookSmallBlade2 = "อาวุธมีคมสั้น เล่มที่ 2",
+    ItemName_Literacy.BookSmallBlade3 = "อาวุธมีคมสั้น เล่มที่ 3",
+    ItemName_Literacy.BookSmallBlade4 = "อาวุธมีคมสั้น เล่มที่ 4",
+    ItemName_Literacy.BookSmallBlade5 = "อาวุธมีคมสั้น เล่มที่ 5",
+        
+    ItemName_Literacy.BookLongBlade1 = "อาวุธมีคมยาว เล่มที่ 1",
+    ItemName_Literacy.BookLongBlade2 = "อาวุธมีคมยาว เล่มที่ 2",
+    ItemName_Literacy.BookLongBlade3 = "อาวุธมีคมยาว เล่มที่ 3",
+    ItemName_Literacy.BookLongBlade4 = "อาวุธมีคมยาว เล่มที่ 4",
+    ItemName_Literacy.BookLongBlade5 = "อาวุธมีคมยาว เล่มที่ 5",
+        
+    ItemName_Literacy.BookSpear1 = "หอก เล่มที่ 1",
+    ItemName_Literacy.BookSpear2 = "หอก เล่มที่ 2",
+    ItemName_Literacy.BookSpear3 = "หอก เล่มที่ 3",
+    ItemName_Literacy.BookSpear4 = "หอก เล่มที่ 4",
+    ItemName_Literacy.BookSpear5 = "หอก เล่มที่ 5",
+}

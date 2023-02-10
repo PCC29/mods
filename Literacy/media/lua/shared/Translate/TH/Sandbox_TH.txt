@@ -1,0 +1,50 @@
+Sandbox_TH = {
+    Sandbox_Literacy = "ม็อดการรู้หนังสือ",
+
+    Sandbox_Literacy_SpeedMultiplier = "ความเร็วในการอ่านต่อเลเวล",
+    Sandbox_Literacy_SpeedMultiplier_tooltip = "How much reading speed is affected by Literacy skill. (Speeds lower than level 5 are always calculated at 20% per level.)",
+    Sandbox_Literacy_SpeedMultiplierLevels_option1 = "10%",
+    Sandbox_Literacy_SpeedMultiplierLevels_option2 = "ค่าเริ่มต้น (20%)",
+    Sandbox_Literacy_SpeedMultiplierLevels_option3 = "40%",
+
+    Sandbox_Literacy_XPMultiplier = "คูณค่าประสบการณ์ทักษะการรู้หนังสือ",
+    Sandbox_Literacy_XPMultiplier_tooltip = "กำหนดอัตราการได้รับค่าประสบการณ์ทักษะการรู้หนังสือ",
+    Sandbox_Literacy_XPMultiplierLevels_option1 = "0.5x",
+    Sandbox_Literacy_XPMultiplierLevels_option2 = "ค่าเริ่มต้น",
+    Sandbox_Literacy_XPMultiplierLevels_option3 = "2x",
+
+    Sandbox_Literacy_TraitMultiplier = "คุณลักษณะส่งผลต่อความเร็วในการอ่าน",
+    Sandbox_Literacy_TraitMultiplier_tooltip = "คุณลักษณะ 'อ่านเร็ว' และ 'อ่านช้า' ส่งผลกับความเร็วในการอ่านมากน้อยเพียงใด โดยจะไม่รวมการเพิ่มทักษะเริ่มต้น",
+    Sandbox_Literacy_TraitMultiplierLevels_option1 = "ไม่มีผล",
+    Sandbox_Literacy_TraitMultiplierLevels_option2 = "ค่าเริ่มต้น (10%)",
+    Sandbox_Literacy_TraitMultiplierLevels_option3 = "20%",
+
+    Sandbox_Literacy_OverallSpeedMultiplier = "ตัวคูณความเร็วในการอ่านโดยรวม",
+    Sandbox_Literacy_OverallSpeedMultiplier_tooltip = "กำหนดอัตราความเร็วในการอ่านโดยรวมของคุณ",
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option1 = "ค่าเริ่มต้น",
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option2 = "1.5x",
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option3 = "2x",
+
+    Sandbox_Literacy_IlliteratePenalty = "ไม่รู้หนังสือ: ผลด้านลบถาวร",
+    Sandbox_Literacy_IlliteratePenalty_tooltip = "เมื่อสูญเสียคุณลักษณะ 'ไม่รู้หนังสือ' ไปแล้วจะส่งผลด้านลบอย่างถาวรอย่างไร",
+    Sandbox_Literacy_IlliteratePenalties_option1 = "ไม่มีผลด้านลบ",
+    Sandbox_Literacy_IlliteratePenalties_option2 = "อ่านหนังสือไม่คล่องและอ่านหนังสือช้า",
+    Sandbox_Literacy_IlliteratePenalties_option3 = "อ่านหนังสือช้ามาก",
+
+    Sandbox_Literacy_WantGunBooks = "หนังสือทักษะการใช้ปืน",
+    Sandbox_Literacy_WantGunBooks_tooltip = "เพิ่มหนังสือทักษะการเล็งและการบรรจุกระสุน",
+    Sandbox_Literacy_WantPassiveBooks = "หนังสือพละกำลังและความฟิต",
+    Sandbox_Literacy_WantPassiveBooks_tooltip = "เพิ่มหนังสือทักษะพละกำลังและความฟิต",
+    Sandbox_Literacy_WantAgilityBooks = "หนังสือทักษะความคล่องแคล่วว่องไว",
+    Sandbox_Literacy_WantAgilityBooks_tooltip = "เพิ่มหนังสือทักษะการวิ่ง ความปราดเปรียว การลอบเร้น และการเดินเสียงเบา",
+    Sandbox_Literacy_WantWeaponBooks = "หนังสือทักษะอาวุธ",
+    Sandbox_Literacy_WantWeaponBooks_tooltip = "เพิ่มหนังสือทักษะสำหรับอาวุธระยะประชิด",
+    Sandbox_Literacy_WantMaintenanceBooks = "หนังสือทักษะการดูแลรักษาอาวุธ",
+    Sandbox_Literacy_WantMaintenanceBooks_tooltip = "เพิ่มหนังสือทักษะการดูแลรักษาอาวุธ",
+    Sandbox_Literacy_WantLiteracyMag = "แบบหัดอ่าน",
+    Sandbox_Literacy_WantLiteracyMag_tooltip = "หากปิดการใช้งานตัวเลือกนี้ 'แบบหัดอ่าน!' จะไม่เกิดในแผนที่",
+    Sandbox_Literacy_LiteracyMagCraftable = "สามารถสร้าง 'แบบหัดอ่าน!' ได้",
+
+    Sandbox_Literacy_SafeMode = "โหมดปลอดภัย",
+    Sandbox_Literacy_SafeMode_tooltip = "ปิดใช้งานโค้ดพิเศษสำหรับการเกิดของหนังสือที่ใช้โดยม็อดนี้ ควรเปิดใช้งานตัวเลือกนี้เมื่อใช้ม็อดที่เพิ่มหนังสือหรือไอเท็มเป็นจำนวนมากที่เกิดในตำแหน่งของหนังสือ เช่น ม็อด True Music",
+}

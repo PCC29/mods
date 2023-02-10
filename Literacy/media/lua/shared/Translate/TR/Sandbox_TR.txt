@@ -1,0 +1,42 @@
+Sandbox_TR = {
+    Sandbox_Literacy = "Okuryazarlýk Modu",
+
+    Sandbox_Literacy_SpeedMultiplier = "Seviye Baþýna Okuma Hýzý",
+    Sandbox_Literacy_SpeedMultiplier_tooltip = "Okuryazarlýk becerisinden okuma hýzý ne kadar etkilenir. (5. seviyenin altýndaki hýzlar her zaman seviye baþýna %20 olarak hesaplanýr.)",
+    Sandbox_Literacy_SpeedMultiplierLevels_option1 = "10%"
+    Sandbox_Literacy_SpeedMultiplierLevels_option2 = "Varsayýlan (20%)"
+    Sandbox_Literacy_SpeedMultiplierLevels_option3 = "40%"
+
+    Sandbox_Literacy_XPMultiplier = "Okuryazarlýk XP Çarpaný",
+    Sandbox_Literacy_XPMultiplier_tooltip = "Okuryazarlýk XP'sinin kazanýlma oranýný deðiþtirir.",
+    Sandbox_Literacy_XPMultiplierLevels_option1 = "0.5x"
+    Sandbox_Literacy_XPMultiplierLevels_option2 = "Varsayýlan"
+    Sandbox_Literacy_XPMultiplierLevels_option3 = "2x"
+
+    Sandbox_Literacy_TraitMultiplier = "Özellik Bonus Hýzý",
+    Sandbox_Literacy_TraitMultiplier_tooltip = "Hýzlý Okuyucu ve Yavaþ Okuyucunun okuma hýzý üzerinde ne kadar etkisi olduðu, baþlangýç beceri artýþý dahil deðil.",
+    Sandbox_Literacy_TraitMultiplierLevels_option1 = "Bonus yok"
+    Sandbox_Literacy_TraitMultiplierLevels_option2 = "Varsayýlan (10%)"
+    Sandbox_Literacy_TraitMultiplierLevels_option3 = "20%"
+
+    Sandbox_Literacy_OverallSpeedMultiplier = "Genel Okuma Hýzý Çarpaný",
+    Sandbox_Literacy_OverallSpeedMultiplier_tooltip = "Genel okuma hýzýnýzý çarpar",
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option1 = "Varsayýlan"
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option2 = "1.5x"
+    Sandbox_Literacy_OverallSpeedMultiplierLevels_option3 = "2x"
+
+    Sandbox_Literacy_WantGunBooks = "Ateþli Silahlar Beceri Kitaplarý",
+    Sandbox_Literacy_WantGunBooks_tooltip = "Niþan alma ve Þarjör Doldurma için beceri kitaplarý ekler. Bunlarý ekleyen baþka bir modunuz varsa veya istemiyorsanýz devre dýþý býrakýn.",
+    Sandbox_Literacy_WantPassiveBooks = "Güç ve Fitness Beceri Kitaplarý",
+    Sandbox_Literacy_WantPassiveBooks_tooltip = "Güç ve Fitness için beceri kitaplarý ekler. Bunlarý ekleyen baþka bir modunuz varsa veya istemiyorsanýz devre dýþý býrakýn.",
+    Sandbox_Literacy_WantAgilityBooks = "Çeviklik Beceri Kitaplarý",
+    Sandbox_Literacy_WantAgilityBooks_tooltip = "Koþuculuk, Atiklik, Gizlilik ve Zariflik için beceri kitaplarý ekler. Bunlarý ekleyen baþka bir modunuz varsa veya istemiyorsanýz devre dýþý býrakýn.",
+    Sandbox_Literacy_WantWeaponBooks = "Mücadele Beceri Kitaplarý",
+    Sandbox_Literacy_WantWeaponBooks_tooltip = "Yakýn dövüþ silahlarý için beceri kitaplarý ekler. Bunlarý ekleyen baþka bir modunuz varsa veya istemiyorsanýz devre dýþý býrakýn.",
+    Sandbox_Literacy_WantMaintenanceBooks = "Onarma Beceri Kitaplarý",
+    Sandbox_Literacy_WantMaintenanceBooks_tooltip = "Onarma için beceri kitaplarý ekler. Bunlarý ekleyen baþka bir modunuz varsa veya istemiyorsanýz devre dýþý býrakýn.",
+    Sandbox_Literacy_WantLiteracyMag = "Okumayý öðren"
+
+    Sandbox_Literacy_SafeMode = "Güvanli Mod",
+    Sandbox_Literacy_SafeMode_tooltip = "Bu mod tarafýndan kullanýlan özel kitap oluþturma kodunu devre dýþý býrakýr. Bu gerekli olmamalý, ancak çok sayýda kitap ekleyen modlar veya kitaplarýn olduðu yerlerde ortaya çýkan öðeler kullanýrken yardýmcý olabilir.",
+}

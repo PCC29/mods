@@ -1,0 +1,31 @@
+VERSION = 1,
+
+option ReviveMP.CharacterWeight
+{
+	type = boolean, default = true,
+	page = ReviveMP, translation = CharacterWeight,
+}
+
+option ReviveMP.CharacterXP
+{
+	type = boolean, default = true,
+	page = ReviveMP, translation = CharacterXP,
+}
+
+option ReviveMP.CharacterBoosts
+{
+	type = boolean, default = true,
+	page = ReviveMP, translation = CharacterBoosts,
+}
+
+option ReviveMP.CharacterRecipes
+{
+	type = boolean, default = true,
+	page = ReviveMP, translation = CharacterRecipes,
+}
+
+option ReviveMP.CharacterTraits
+{
+	type = boolean, default = true,
+	page = ReviveMP, translation = CharacterTraits,
+}

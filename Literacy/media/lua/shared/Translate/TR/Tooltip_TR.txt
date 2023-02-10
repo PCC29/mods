@@ -1,0 +1,17 @@
+Tooltip_TR = {
+    Tooltip_BookTitle_Aiming = "Hedef Alýnýyor",
+    Tooltip_BookTitle_Reloading = "Þarjör Dolduruluyor",
+    Tooltip_BookTitle_Strength = "Güç",
+    Tooltip_BookTitle_Fitness = "Fitness",
+    Tooltip_BookTitle_Nimble = "Atiklik",
+    Tooltip_BookTitle_Sprinting = "Koþuculuk",
+    Tooltip_BookTitle_Sneak = "Gizlilik",
+    Tooltip_BookTitle_Lightfoot = "Zariflik",
+    Tooltip_BookTitle_Maintenance = "Onarma",
+    Tooltip_BookTitle_Axe = "Balta",
+    Tooltip_BookTitle_SmallBlunt = "Kýsa Ezici",
+    Tooltip_BookTitle_Blunt = "Yakýn Dövüþ Silahlarý",
+    Tooltip_BookTitle_SmallBlade = "Kýsa Kesici",
+    Tooltip_BookTitle_LongBlade = "Uzun Kesici",
+    Tooltip_BookTitle_Spear = "Mýzrak",
+}

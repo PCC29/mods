@@ -1,0 +1,24 @@
+name=ReviveMP
+poster=preview.png
+id=ReviveMP
+description=This mod allows you to return back to life by selecting "Revive" occupation in the character creation screen without losing any of your progress (weight, skills, skill boosts, traits and recipes). It will also set your occupation back to what it was when you die. Your new character's Forename and Surname must be same with the character you died with. (If you pick up "Revive" occupation but have no data stored on server, your character will be killed instantly so you can create a new character. This is to prevent people playing with "Revive" occupation. I couldn't find a way to delete the character so that's why I choosed to kill. Let me know if you have a better way.)
+description=
+description=[b]Tested on 41.66.[/b]
+description=
+description=Available Add-on List:
+description=[table][tr][th]Name[/th][th]Description[/th][/tr]
+description=[tr][td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2791694613]Permanent Injuries[/url][/td][td]Adds a permanent injury to your character everytime he/she revives.[/td][/tr]
+description=[/table]
+description=
+description=Note:
+description=This mod inspired by Respawn mod and developed solely for multiplayer. Respawn mod is saving your character data on client side even if you are playing on multiplayer. This can easily be exploited by simply editing your character's JSON file that's generated when you died and change the values inside. However ReviveMP saves your data on server-side which means no one can edit the values of the revive data.
+description=
+description=To Modders:
+description=If you wish to build a mod and take an action when a character revives, you can create a record on OnRevive event table and assign your function. Like:
+description=[code]ReviveMP.onReviveEventTable.ExampleAddon = ReviveMPAddons.ExampleAddon.OnReviveEvent[/code]
+description="IsoPlayer" object will be passed as parameter to the callback function.
+description=
+description=With this you can implement some kind of punishment system to revived players. Like giving them a negative trait. Or a burn injury, etc.
+description=
+description=Want to support development and motivate me?
+description=[url=https://www.buymeacoffee.com/egebilecen][img]https://i.ibb.co/gMYLVV2/Webp-net-resizeimage.png[/img][/url]

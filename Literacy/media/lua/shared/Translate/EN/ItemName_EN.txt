@@ -1,0 +1,93 @@
+ItemName_EN = {
+    ItemName_Literacy.LiteracyMag = "Learn to Read!",
+
+    ItemName_Literacy.BookAiming1 = "Aiming Vol. 1",
+    ItemName_Literacy.BookAiming2 = "Aiming Vol. 2",
+    ItemName_Literacy.BookAiming3 = "Aiming Vol. 3",
+    ItemName_Literacy.BookAiming4 = "Aiming Vol. 4",
+    ItemName_Literacy.BookAiming5 = "Aiming Vol. 5",
+
+    ItemName_Literacy.BookReloading1 = "Reloading Vol. 1",
+    ItemName_Literacy.BookReloading2 = "Reloading Vol. 2",
+    ItemName_Literacy.BookReloading3 = "Reloading Vol. 3",
+    ItemName_Literacy.BookReloading4 = "Reloading Vol. 4",
+    ItemName_Literacy.BookReloading5 = "Reloading Vol. 5",
+
+    ItemName_Literacy.BookStrength1 = "Strength Vol. 1",
+    ItemName_Literacy.BookStrength2 = "Strength Vol. 2",
+    ItemName_Literacy.BookStrength3 = "Strength Vol. 3",
+    ItemName_Literacy.BookStrength4 = "Strength Vol. 4",
+    ItemName_Literacy.BookStrength5 = "Strength Vol. 5",
+
+    ItemName_Literacy.BookFitness1 = "Fitness Vol. 1",
+    ItemName_Literacy.BookFitness2 = "Fitness Vol. 2",
+    ItemName_Literacy.BookFitness3 = "Fitness Vol. 3",
+    ItemName_Literacy.BookFitness4 = "Fitness Vol. 4",
+    ItemName_Literacy.BookFitness5 = "Fitness Vol. 5",
+
+    ItemName_Literacy.BookLightfoot1 = "Lightfoot Vol. 1",
+    ItemName_Literacy.BookLightfoot2 = "Lightfoot Vol. 2",
+    ItemName_Literacy.BookLightfoot3 = "Lightfoot Vol. 3",
+    ItemName_Literacy.BookLightfoot4 = "Lightfoot Vol. 4",
+    ItemName_Literacy.BookLightfoot5 = "Lightfoot Vol. 5",
+    
+    ItemName_Literacy.BookSprinting1 = "Sprinting Vol. 1",
+    ItemName_Literacy.BookSprinting2 = "Sprinting Vol. 2",
+    ItemName_Literacy.BookSprinting3 = "Sprinting Vol. 3",
+    ItemName_Literacy.BookSprinting4 = "Sprinting Vol. 4",
+    ItemName_Literacy.BookSprinting5 = "Sprinting Vol. 5",
+        
+    ItemName_Literacy.BookSneak1 = "Sneaking Vol. 1",
+    ItemName_Literacy.BookSneak2 = "Sneaking Vol. 2",
+    ItemName_Literacy.BookSneak3 = "Sneaking Vol. 3",
+    ItemName_Literacy.BookSneak4 = "Sneaking Vol. 4",
+    ItemName_Literacy.BookSneak5 = "Sneaking Vol. 5",
+        
+    ItemName_Literacy.BookNimble1 = "Nimble Vol. 1",
+    ItemName_Literacy.BookNimble2 = "Nimble Vol. 2",
+    ItemName_Literacy.BookNimble3 = "Nimble Vol. 3",
+    ItemName_Literacy.BookNimble4 = "Nimble Vol. 4",
+    ItemName_Literacy.BookNimble5 = "Nimble Vol. 5",
+        
+    ItemName_Literacy.BookMaintenance1 = "Maintenance Vol. 1",
+    ItemName_Literacy.BookMaintenance2 = "Maintenance Vol. 2",
+    ItemName_Literacy.BookMaintenance3 = "Maintenance Vol. 3",
+    ItemName_Literacy.BookMaintenance4 = "Maintenance Vol. 4",
+    ItemName_Literacy.BookMaintenance5 = "Maintenance Vol. 5",
+        
+    ItemName_Literacy.BookAxe1 = "Axe Vol. 1",
+    ItemName_Literacy.BookAxe2 = "Axe Vol. 2",
+    ItemName_Literacy.BookAxe3 = "Axe Vol. 3",
+    ItemName_Literacy.BookAxe4 = "Axe Vol. 4",
+    ItemName_Literacy.BookAxe5 = "Axe Vol. 5",
+        
+    ItemName_Literacy.BookSmallBlunt1 = "Short Blunt Vol. 1",
+    ItemName_Literacy.BookSmallBlunt2 = "Short Blunt Vol. 2",
+    ItemName_Literacy.BookSmallBlunt3 = "Short Blunt Vol. 3",
+    ItemName_Literacy.BookSmallBlunt4 = "Short Blunt Vol. 4",
+    ItemName_Literacy.BookSmallBlunt5 = "Short Blunt Vol. 5",
+        
+    ItemName_Literacy.BookBlunt1 = "Long Blunt Vol. 1",
+    ItemName_Literacy.BookBlunt2 = "Long Blunt Vol. 2",
+    ItemName_Literacy.BookBlunt3 = "Long Blunt Vol. 3",
+    ItemName_Literacy.BookBlunt4 = "Long Blunt Vol. 4",
+    ItemName_Literacy.BookBlunt5 = "Long Blunt Vol. 5",
+        
+    ItemName_Literacy.BookSmallBlade1 = "Short Blade Vol. 1",
+    ItemName_Literacy.BookSmallBlade2 = "Short Blade Vol. 2",
+    ItemName_Literacy.BookSmallBlade3 = "Short Blade Vol. 3",
+    ItemName_Literacy.BookSmallBlade4 = "Short Blade Vol. 4",
+    ItemName_Literacy.BookSmallBlade5 = "Short Blade Vol. 5",
+        
+    ItemName_Literacy.BookLongBlade1 = "Long Blade Vol. 1",
+    ItemName_Literacy.BookLongBlade2 = "Long Blade Vol. 2",
+    ItemName_Literacy.BookLongBlade3 = "Long Blade Vol. 3",
+    ItemName_Literacy.BookLongBlade4 = "Long Blade Vol. 4",
+    ItemName_Literacy.BookLongBlade5 = "Long Blade Vol. 5",
+        
+    ItemName_Literacy.BookSpear1 = "Spear Vol. 1",
+    ItemName_Literacy.BookSpear2 = "Spear Vol. 2",
+    ItemName_Literacy.BookSpear3 = "Spear Vol. 3",
+    ItemName_Literacy.BookSpear4 = "Spear Vol. 4",
+    ItemName_Literacy.BookSpear5 = "Spear Vol. 5",
+}

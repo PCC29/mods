@@ -1,0 +1,16 @@
+ファイルYYM331`s nude re-texture(PYZomboid_nude)はバニラに限りなく近い状態で47種類のtexturesにあるBodyの皮膚を変更します。
+このMODによって皮膚に付着した下着が消滅するので、もう二重で下着を履く必要はありません。
+
+■MODのポイント
+・バニラに限りなく近いテクスチャー
+・全てのゾンビのテクスチャーを変更
+・感染していない男性キャラクターのテクスチャー変更
+・感染していない女性キャラクターのテクスチャー変更
+
+[mod points]
+1.Textures as close to vanilla as possible
+2.Changed the texture of all zombies
+3.Change the texture of uninfected male characters
+4.Changed the texture of uninfected female characters
+
+No need to double up on underwear from now on!
